@@ -16,12 +16,12 @@ Merhaba Dünya Örneği
 Udp (Universal Document Page) has been created to prepare and view documents in a simple way. Json is required to create documents.
 
 Hello World Example
-``json
+```json
 {
   "title": "Hello World",
   "content": {
        "text": "Hello World!",
-       "align": "ball"
+       "align": "top"
   }
 }
 ```
