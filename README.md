@@ -25,3 +25,9 @@ Hello World Example
   }
 }
 ```
+
+# View Output / Çıktıyı Görüntüleme
+
+```
+console>python udp.py run example.udp 
+```
