@@ -1,29 +1,23 @@
 # Türkçe
-Udp (Universel Document Page) türkçesiyle evrensel döküman sayfası basit bir şekilde dökümanlar hazırlamak ve görüntülemek için yaratılmıştır.Döküman oluşturmak için json gereklidir
+Udp (Universel Document Page) türkçesiyle evrensel döküman sayfası basit bir şekilde dökümanlar hazırlamak ve görüntülemek için yaratılmıştır.Döküman oluşturmak için Xml gereklidir
 
 Merhaba Dünya Örneği
-```json
-{
-  "title": "Merhaba Dünya",
-  "content": {
-       "text": "Merhaba Dünya!",
-       "align": "top"
-  }
-}
+```xml
+<udp>
+  <title>Merhaba Dünya</title>
+  <content>Merhaba Dünya</content>
+</udp>
 ```
 
 # English
-Udp (Universal Document Page) has been created to prepare and view documents in a simple way. Json is required to create documents.
+Udp (Universal Document Page) has been created to prepare and view documents in a simple way. Xml is required to create documents.
 
 Hello World Example
-```json
-{
-  "title": "Hello World",
-  "content": {
-       "text": "Hello World!",
-       "align": "top"
-  }
-}
+```xml
+<udp>
+  <title>Hello World</title>
+  <content>Hello World</content>
+</udp>
 ```
 
 # View Output / Çıktıyı Görüntüleme
