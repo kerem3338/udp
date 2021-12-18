@@ -1,3 +1,6 @@
+**Önemli / İmportant**
+[udp education / Udp Eğitimi](/#edu)
+
 # Türkçe
 Udp (Universel Document Page) türkçesiyle evrensel döküman sayfası basit bir şekilde dökümanlar hazırlamak ve görüntülemek için yaratılmıştır.Döküman oluşturmak için Xml gereklidir
 
@@ -25,3 +28,6 @@ Hello World Example
 ```
 console>python udp.py run example.udp 
 ```
+
+# Education / Eğitim
+`python udp.py yardim gelistirici` **Note: The article is not in English**
